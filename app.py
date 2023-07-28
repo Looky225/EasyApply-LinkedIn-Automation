@@ -21,7 +21,7 @@ class EasyApplyLinkedin:
 
     def __init__(self, data):
         """Parameter initialization"""
-        SCRAPEOPS_API_KEY = '10a926a3-f858-4c02-ad9c-b468eb3e4df1'
+        SCRAPEOPS_API_KEY = 'API-KEY'
 
         # Define ScrapeOps Proxy Port Endpoint
         proxy_server_url = f'http://scrapeops.headless_browser_mode=true:{SCRAPEOPS_API_KEY}@proxy.scrapeops.io:5353'
