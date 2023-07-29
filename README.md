@@ -74,3 +74,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Disclaimer
 This script is provided for educational purposes only. The developer is not responsible for any misuse or violations of LinkedIn's terms of service. Use this script at your own risk.
+
+Author: Assante Ahmad
+Email: loukmanassante@outlook.com
