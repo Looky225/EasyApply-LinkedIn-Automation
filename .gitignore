@@ -6,7 +6,7 @@ __pycache__/
 venv/
 config.json
 main.py
-test_linkedinbot2.py
+test_linkedbot2.py
 test_linkedinscrolla.py
 LICENSE.chromedriver
 geckodriver.log
